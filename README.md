@@ -14,7 +14,7 @@ git clone https://github.com/ml-explore/mlx.git
 
 1-2 clone the mlx-examples
 ```CLI
-git clone https://github.com/ml-explore/mlx.git](https://github.com/ml-explore/mlx-examples.git
+git clone https://github.com/ml-explore/mlx-examples.git
 ```
 
 then go to segment_anything path 
