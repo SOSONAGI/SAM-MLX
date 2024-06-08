@@ -62,7 +62,7 @@ def process_image(image):
     return fig
 
 def show_mask(mask, ax, image, random_color=False, alpha=0.3):
-    color = np.random.random(3) if random_color else np.array([0.1, 0.3, 0.8])  # 파란색 계열로 변경
+    color = np.random.random(3) if random_color else np.array([0.1, 0.3, 0.8])  
     mask_image = np.dstack([mask]*3) * color
     mask_rgb = np.dstack([mask] * 3)
     mask_rgba = np.dstack([mask_rgb, mask * alpha])
