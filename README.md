@@ -54,3 +54,5 @@ TO DO
 Licenses
 Followed everythings from the SAM model (Apache 2.0) and MLX.
 
+![example1](./sam_mlx.mp4)
+
